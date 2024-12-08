@@ -73,7 +73,7 @@ To get started with LaserX, follow these steps:
 1. Clone the repository:
 
    ```bash
-     https://github.com/ayushgupta9906/LaserX-Clothing-Store.git
+     git clone https://github.com/ayushgupta9906/LaserX-Clothing-Store.git
    ```
 
 2. Install dependencies:
