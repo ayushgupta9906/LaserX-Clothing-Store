@@ -52,7 +52,7 @@ const LoginForm = () => {
       <div className="tp-login-input-wrapper">
         <div className="tp-login-input-box">
           <div className="tp-login-input">
-            <input {...register("email", { required: `Email is required!` })} name="email" id="email" type="email" placeholder="shofy@mail.com" />
+            <input {...register("email", { required: `Email is required!` })} name="email" id="email" type="email" placeholder="arush0122333@gmail.com" />
           </div>
           <div className="tp-login-input-title">
             <label htmlFor="email">Your Email</label>
@@ -66,7 +66,7 @@ const LoginForm = () => {
                 {...register("password", { required: `Password is required!` })}
                 id="password"
                 type={showPass ? "text" : "password"}
-                placeholder="Min. 6 character"
+                placeholder="asdfasdf"
               />
             </div>
             <div className="tp-login-input-eye" id="password-show-toggle">
